@@ -1,1 +1,1 @@
-Cardiovascular diseases (CVDs) are the leading cause of death around the world. CVDs claim the lives of about 17.9 million people each year, accounting for 31% of all deaths worldwide.
+A novel approach at detecting and classifying Arrhythmia in ECG data by utilizing LSTM autoencoders and Time Series Data
